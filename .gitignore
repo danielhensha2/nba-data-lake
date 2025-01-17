@@ -1,0 +1,86 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# C extensions
+*.c
+*.h
+*.cpp
+
+# Distribution / packaging
+.eggs/
+.pip/
+build/
+dist/
+docs/_build/
+parts/
+eggs/
+lib/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.spec
+
+# Unit test/coverage reports
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+htmlcov/
+
+# Django stuff
+*.sqlite3
+db.sqlite3
+local_settings.py
+
+# Flask stuff
+instance/
+.flaskenv
+
+# Tornado stuff
+.cookies.sqlite
+
+# Scrapy stuff
+.scrapy
+
+# IPython Notebook
+.ipynb_checkpoints
+
+# PyCharm
+*.idea
+.vscode/
+
+# Sublime Text
+.DS_Store
+
+# OS generated files
+.DS_Store
+.localized/
+.git/
+.svn/
+.hg/
+.CVS/
+.bzr/
+
+# Miscellaneous
+*.py[cod]
+*.so
+.DS_Store
+Thumbs.db
+*~
+*~.swp
+*~.bak
+*.sublime-project
+*.sublime-workspace
+*.tmp
+*.log
+*.sync
+.env 
+Day1_WeatherApp/
+
