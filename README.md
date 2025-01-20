@@ -83,8 +83,7 @@ WHERE Position = 'PG';
 
 * LinkedIn: www.linkedin.com/in/daniel-osarobo
 
-* Read the Full Write Up on Medium: https://medium.com/@danielosarobo/from-courtside-to-cloud-side-building-an-nba-data-lake-with-aws-s3-glue-and-athena-da88b26f2a25?source=user_profile_page---------0-------------4c6cc937c0a4---------------
-
+* Read the Full Write Up on Medium: https://medium.com/@danielosarobo/from-courtside-to-cloud-side-building-an-nba-data-lake-with-aws-s3-glue-and-athena-da88b26f2a25
 
 
 
