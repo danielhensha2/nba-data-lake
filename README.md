@@ -47,6 +47,7 @@ pip install -r requirements.txt
 **Create a .env file:**
 * Create a file named .env in the project directory.
 * Add the following lines to the .env file:
+
 SPORTS_DATA_API_KEY=<your_api_key>
 NBA_ENDPOINT=[https://api.sportsdata.io/v3/nba/scores/json/Players](https://api.sportsdata.io/v3/nba/scores/json/Players)
 
@@ -74,7 +75,7 @@ WHERE Position = 'PG';
 
 **License**
 
-* This project is licensed under the [Choose an appropriate license, e.g., MIT License].   
+* This project is licensed under the MIT License.   
 
 **Contact**
 
